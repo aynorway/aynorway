@@ -80,7 +80,7 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 
 ---
 
-<img src="pics/ttb/ttb17.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;"> 
+<img src="pics/ttb/ttb17.png" width="64" align="left" style="margin: 10px; vertical-align: middle;"> 
 
 # TimeTrackBar (For Both Mac & Windows) 
 
