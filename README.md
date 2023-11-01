@@ -2,11 +2,24 @@
 
 ### Here, you'll find a curated selection of my technical projects and extensions.
 
-# Featured Projects:
+## Contact information 
 
+Thank you for your support and usage! If you encounter any problems or have any suggestions during use, please feel free to contact me.  
+Work Email: adrianyangbiz@gmail.com
+
+---
+## Final Thoughts 
+
+**Adrian "Old 6"**: Life is precious, don't waste it.
+
+---
+<br>
+<br>
 <br>
 
+# Featured/Released Projects:
 
+<br>
 <!-- Web Video Speed Controller Extension -->
 
 ---
@@ -83,8 +96,6 @@ TimeTrackBar is a minimalist Java-based timer designed for intuitive time tracki
 
 Hello everyone, I'm Adrain Y, also known as "老6". This time-tracking software is one of my personal favorite software projects. I've always been on the lookout for a tool that displays both the time and a progress bar, aiming for a more intuitive feel of the passing time. After not finding a minimalist timer that met my requirements for quite some time, I decided to create one myself. Currently, I use this software almost daily to track my work hours, which greatly assists me in understanding and allocating my time more effectively. This project is developed entirely in Java, ensuring easy cross-platform compilation. Versions for both MacBook and Windows have been released. To guarantee the software's compatibility, I've intentionally employed the foundational Unicode character set. In the upcoming versions, I plan to introduce several new features, including report generation, data analysis, and an always-on-top window feature. Moreover, the ability to continue monitoring time even when the computer is in sleep mode is under development. I invite everyone who values their time to give it a try. This software will remain open-source indefinitely, hoping to benefit many.
 
-**Adrian "Old 6"**: Life is precious, don't waste it.
-
 ---
 
 ## Features
@@ -99,13 +110,6 @@ Hello everyone, I'm Adrain Y, also known as "老6". This time-tracking software 
 - "Always On Top" mode for keeping the application window in the foreground.
 
 ---
-
-## Installation and Usage
-
-**Windows users**: [☞ Download TimeTrackBarPackage v1.0 for Windows (.exe)](https://github.com/aynorway/timetrackbar/releases/download/v1.0/TimeTrackBarPackage.exe)
-
-**macOS ARM (M-series) users**: [☞ Download TimeTrackBar v1.2 for macOS (.dmg)](https://github.com/aynorway/ay-timetrackbar-java/releases/download/v1.2/TimeTrackBar-1.2.dmg)
-
 
 ## User Interface Guide
 
@@ -123,14 +127,9 @@ From left to right:
 - **⏹ Button**: Stop and reset the timer completely.
 
 ---
-## Contact information 
 
-Thank you for your support and usage! If you encounter any problems or have any suggestions during use, please feel free to contact me.  
-Work Email: adrianyangbiz@gmail.com
+## Installation and Usage
 
----
-## Final Thoughts 
+**Windows users**: [☞ Download TimeTrackBarPackage v1.0 for Windows (.exe)](https://github.com/aynorway/timetrackbar/releases/download/v1.0/TimeTrackBarPackage.exe) 
 
-**Adrian "Old 6"**: Life is precious, don't waste it.
-
----
+**macOS ARM (M-series) users**: [☞ Download TimeTrackBar v1.2 for macOS (.dmg)](https://github.com/aynorway/ay-timetrackbar-java/releases/download/v1.2/TimeTrackBar-1.2.dmg)
