@@ -28,7 +28,7 @@ Work Email: adrianyangbiz@gmail.com
 
 ---
 
-This extension allows users to effortlessly control the playback speed of any online video. Easily operable via a floating interface, keyboard shortcuts, or simple mouse actions.
+<img src="pics/vsc/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;"> This extension allows users to effortlessly control the playback speed of any online video. Easily operable via a floating interface, keyboard shortcuts, or simple mouse actions.
 
 ---
 
@@ -85,7 +85,7 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 # TimeTrackBar (For Both Mac & Windows) 
 
 ---
-TimeTrackBar is a minimalist Java-based timer designed for intuitive time tracking, offering both visual progress and cross-platform support. Packed with features, it aids effective time management and remains open-source.
+<img src="pics/ttb/ttb17.png" width="64" align="left" style="margin: 10px; vertical-align: middle;"> TimeTrackBar is a minimalist Java-based timer designed for intuitive time tracking, offering both visual progress and cross-platform support. Packed with features, it aids effective time management and remains open-source.
 
 --- 
 
