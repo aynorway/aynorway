@@ -24,7 +24,7 @@ Work Email: adrianyangbiz@gmail.com
 
 <img src="pics/vsc/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
 
-# Web Video Speed Controller Extension (For Both FireFox & Google Chrome)
+# [Web Video Speed Controller Extension (For Both Google Chrome & FireFox Browsers)](https://github.com/aynorway/web-video-speed-controller)
 
 ---
 
@@ -82,7 +82,7 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 
 <img src="pics/ttb/ttb17.png" width="64" align="left" style="margin: 10px; vertical-align: middle;"> 
 
-# TimeTrackBar (For Both Mac & Windows) 
+# [TimeTrackBar Desktop Application (For Both Mac & Windows)](https://github.com/aynorway/ay-timetrackbar-java/tree/master)
 
 ---
 <img src="pics/ttb/ttb17.png" width="64" align="left" style="margin: 10px; vertical-align: middle;"> TimeTrackBar is a minimalist Java-based timer designed for intuitive time tracking, offering both visual progress and cross-platform support. Packed with features, it aids effective time management and remains open-source.
