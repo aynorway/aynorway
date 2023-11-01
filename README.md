@@ -38,6 +38,12 @@ Work Email: adrianyangbiz@gmail.com
 
 Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I developed in my spare time. It allows users to freely control the playback speed of almost any online video, with perfect compatibility for YouTube. Not just specific to certain video services, it's suitable for nearly all websites using standard video players, such as Vimeo, Bilibili, Youku, etc. It caters to those who require precise speed adjustments, with an accuracy of 0.01x and up to 16x speed. The extension is compatible with both Chrome and Firefox browsers. It's currently available for free, and I hope it helps you all!
 
+## Visit Firefox Add-ons Store to download 
+
+**Extension Name**: Web Video Speed Controller  
+**Compatible With**: Firefox Browser  
+**Download Link**: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
+
 ## User Guide
 
 | ![Chrome Settings](pics/vsc/1.png) | ![Chrome Settings](pics/vsc/2.png) |
@@ -65,12 +71,6 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 | ![YouTube Interface](pics/vsc/Demo-youtube.png) |
 |:--:| 
 | YouTube Interface |
-
-## Visit Firefox Add-ons Store to download 
-
-**Extension Name**: Web Video Speed Controller  
-**Compatible With**: Firefox Browser  
-**Download Link**: [Visit Firefox Add-ons Store to download Web Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/web-video-speed-controller/)
 
 ---
 <br>
