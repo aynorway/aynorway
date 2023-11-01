@@ -5,8 +5,7 @@
 # Featured Projects:
 
 <br>
-<br>
-<br>
+
 
 <!-- Web Video Speed Controller Extension -->
 
@@ -62,8 +61,6 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 11. Fully compatible with both Chrome and Firefox browsers.
 
 ---
-<br>
-<br>
 <br>
 <br>
 <br>
