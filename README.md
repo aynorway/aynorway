@@ -40,7 +40,7 @@ Hello everyone, I'm Adrian Y, "老6". This is a powerful browser extension I dev
 
 This software does not utilize an open source license; click [here](JS_File_Disclosure_Explanation.md) for the rationale.
 
-## Visit Firefox Add-ons Store to download 
+## Visit Firefox Add-ons Store to Download 
 
 **Extension Name**: Web Video Speed Controller  
 **Compatible With**: Firefox Browser  
@@ -68,11 +68,21 @@ This software does not utilize an open source license; click [here](JS_File_Disc
 10. Four theme colors to choose from.
 11. Fully compatible with both Chrome and Firefox browsers.
 
+## Settings Interface 
+
+| ![Firefox Settings](pics/vsc/IconIndicator-Firefox.png) | ![Chrome Settings](pics/vsc/IconIndicator-Chrome.png) |
+|:--:|:--:| 
+| Firefox Browser Settings Interface | Chrome Browser Settings Interface |
+
 ## User Interface 
 
 | ![YouTube Interface](pics/vsc/Demo-youtube.png) |
 |:--:| 
 | YouTube Interface |
+
+| ![Vimeo Interface](pics/vsc/Demo-vimeo.png) | ![Bilibili Interface](pics/vsc/Demo-bilibili.png) |
+|:--:|:--:| 
+| Firefox Browser Settings Interface | Chrome Browser Settings Interface |
 
 ---
 <br>
