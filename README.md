@@ -93,6 +93,69 @@ This software does not utilize an open source license; click [here](JS_File_Disc
 ---
 <br>
 <br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+<!-- Youtube Auto Loop -->
+
+---
+
+<img src="pics/yal/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
+
+# [Youtube Auto Loop Extension (Applicable:  Chrome & Firefox Browsers)](https://chromewebstore.google.com/detail/youtube-auto-loop/alogflekkffcjmpbkiejclcooieofeee?hl=en)
+
+<img src="pics/yal/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;"> Automatically remember the settings to loop/unloop all YouTube videos, eliminating the need for manual intervention.
+
+## Key Features
+
+Auto-Loop Functionality.
+Memory Feature - remembers settings for each video.
+
+## User Guide
+
+Setting Up Auto-Loop:
+Once installed, navigate to any YouTube video.
+Click on the extension icon in your browser toolbar.
+Enable the 'Auto-Loop' toggle.
+
+## Settings Interface 
+
+| ![Firefox Settings](pics/yal/IconIndicator-Firefox.png) | ![Chrome Settings](pics/yal/IconIndicator-Chrome.png) |
+|:--:|:--:| 
+| Firefox Browser Settings Interface | Chrome Browser Settings Interface |
+
+## Visit Firefox Add-ons Store to Download 
+
+**Extension Name**: Youtube Auto Loop  
+**Compatible With**: Firefox Browser  
+**Download Link**: [Visit Firefox Add-ons Store to download](https://addons.mozilla.org/en-CA/firefox/addon/youtube-auto-loop/)
+
+## Visit Chrome Web Store to Download 
+
+**Extension Name**: Youtube Auto Loop  
+**Compatible With**: Chrome Browser  
+**Download Link**: [Visit Chrome Web Store to download](https://chromewebstore.google.com/detail/youtube-auto-loop/alogflekkffcjmpbkiejclcooieofeee?hl=en)
+
+
+---
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
 
 <!-- timetrackbar -->
 
