@@ -111,7 +111,11 @@ This software does not utilize an open source license; click [here](JS_File_Disc
 
 # [Youtube Auto Loop Extension (Applicable:  Chrome & Firefox Browsers)](https://chromewebstore.google.com/detail/youtube-auto-loop/alogflekkffcjmpbkiejclcooieofeee?hl=en)
 
+---
+
 <img src="pics/yal/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;"> Automatically remember the settings to loop/unloop all YouTube videos, eliminating the need for manual intervention.
+
+---
 
 ## Key Features
 
@@ -208,5 +212,8 @@ From left to right:
 
 **macOS ARM (M-series) users**: [☞ Download TimeTrackBar v1.2 for macOS (.dmg)](https://github.com/aynorway/ay-timetrackbar-java/releases/download/v1.2/TimeTrackBar-1.2.dmg)
 
+<br>
+<br>
+<br>
 <br>
 <br>
