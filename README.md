@@ -1,4 +1,4 @@
-## "Life is precious, don't waste it."
+## "Life is precious, don't waste it" - Adrian Y
 
 <img src="pics/aySk.png" style="margin-right: 10px; vertical-align: middle;">
 
