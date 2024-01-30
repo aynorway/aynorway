@@ -1,3 +1,5 @@
+## "Life is precious, don't waste it."
+
 <img src="pics/aySk.png" style="margin-right: 10px; vertical-align: middle;">
 
 ## Hi, this is Adrian Y. Welcome to my page. 
@@ -8,10 +10,6 @@ Here, you'll find a curated selection of my technical projects and extensions.
 
 Thank you for your support and usage! If you encounter any problems or have any suggestions during use, please feel free to contact me.  
 Work Email: adrianyangbiz@gmail.com
-
-## Final Thoughts 
-
-**Adrian "Old 6"**: Life is precious, don't waste it.
 
 ---
 <br>
