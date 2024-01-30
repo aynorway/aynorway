@@ -1,8 +1,8 @@
+<img src="pics/aySk.png" style="margin-right: 10px; vertical-align: middle;">
+
 ## Hi, this is Adrian Y. Welcome to my page. 
 
 Here, you'll find a curated selection of my technical projects and extensions.
-
-<img src="pics/aySk.png" style="margin-right: 10px; vertical-align: middle;">
 
 ## Contact information 
 
@@ -15,10 +15,9 @@ Work Email: adrianyangbiz@gmail.com
 
 ---
 <br>
-
-# Featured/Released Projects:
-
 <br>
+
+# Released App(s):
 
 <!-- Web Video Speed Controller Extension -->
 
