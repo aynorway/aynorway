@@ -2,6 +2,8 @@
 
 Here, you'll find a curated selection of my technical projects and extensions.
 
+<img src="pics/aySk.png" style="margin-right: 10px; vertical-align: middle;">
+
 ## Contact information 
 
 Thank you for your support and usage! If you encounter any problems or have any suggestions during use, please feel free to contact me.  
