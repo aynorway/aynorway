@@ -21,6 +21,25 @@ Work Email: adrianyangbiz@gmail.com
 
 ---
 
+<img src="pics/gct/0033.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
+
+# [AY Google Chrome Themes](https://github.com/aynorway/ay-chrome-theme)
+
+<img src="pics/gct/0051.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;"> 
+
+https://github.com/aynorway/ay-chrome-theme
+
+
+Released some Google Chrome themes, available for free on the Chrome Web Store. 
+<strong>No waterprint. Adhere to the spirit of sharing.</strong>
+
+
+<br>
+
+<!-- Web Video Speed Controller Extension -->
+
+---
+
 <img src="pics/vsc/icon5k.png" width="64" align="left" style="margin-right: 10px; vertical-align: middle;">
 
 # [Web Video Speed Controller Extension (For Both Google Chrome & FireFox Browsers)](https://github.com/aynorway/web-video-speed-controller)
